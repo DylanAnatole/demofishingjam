@@ -36,6 +36,7 @@ Nguyên tắc: đơn giản, ít chữ, người chơi tự hiểu khi chơi.
 - Mồi chỉ giúp hút cá lại gần, cá nào chạm lưỡi câu cũng cắn.
 - Combo dây chuyền, gợi ý nước đi khi đứng yên (3 giây ở màn 1–2, 5 giây các màn sau), hiệu ứng trượt/rơi/nổ ô.
 - 7 loài cá với nhịp giằng/đuối; cá khỏe lao giật dây; chiêu riêng: mực phun mực, nóc xù gai, cá mập ném rong.
+- Bản demo mở sẵn cả 10 màn để trình bày (chọn thẳng màn boss được).
 - 10 màn chơi kèm mẹo, nhiệm vụ phụ, 3 sao, xu và mua thêm 20 giây.
 - Hướng dẫn lần đầu: bàn tay chỉ con cá cần bắt khi thả câu, và kéo mẫu hai ô cần đổi ở lần ghép đầu.
 - Giao diện: HUD xanh navy, nút bóng, bảng thông báo bật nảy, ô ghép bóng, bàn cờ xanh, thanh dạng ống, bảng thắng có sao nảy.
