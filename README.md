@@ -39,6 +39,8 @@ Nguyên tắc: đơn giản, ít chữ, người chơi tự hiểu khi chơi.
 - 10 màn chơi kèm mẹo, nhiệm vụ phụ, 3 sao, xu và mua thêm 20 giây.
 - Hướng dẫn lần đầu: bàn tay chỉ con cá cần bắt khi thả câu, và kéo mẫu hai ô cần đổi ở lần ghép đầu.
 - Giao diện: HUD xanh navy, nút bóng, bảng thông báo bật nảy, ô ghép bóng, bàn cờ xanh, thanh dạng ống, bảng thắng có sao nảy.
+- Âm thanh tự tạo cho thả câu, cắn câu, đổi ô, nổ ô (cao dần theo combo), ô đặc biệt, bắt cá, đứt dây, thắng/thua.
+- Khoảnh khắc bắt cá: cá nhảy vọt lên, xoay vòng, chữ "BẮT ĐƯỢC!".
 - Cân bằng độ khó bằng công cụ mô phỏng trong Unity (tính cả việc câu nhầm khi hồ nhiều cá không cần bắt).
 - Bản HTML (WebGL) tự co theo tỉ lệ 9:16, chơi được trên máy tính và điện thoại.
 
