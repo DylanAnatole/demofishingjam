@@ -3,4 +3,21 @@
 Bản chơi thử trên trình duyệt (Unity WebGL), dùng nội bộ để trình bày ý tưởng.
 Mở trang GitHub Pages của repo này để chơi.
 
-Asset hình ảnh lấy từ các gói miễn phí trên itch.io, chỉ dùng phi thương mại.
+## Ghi chú: những gì đã làm
+
+- Luồng chơi: trang chủ → chèo thuyền (loading) → chọn hồ → chèo thuyền → vào màn.
+- Thả câu: chạm nước để thả, giữ ngón tay lái lưỡi câu; chọn mồi đầu màn, đổi được giữa các lần thả.
+- Kéo cá: bàn ghép 3 kiểu 7×7, vuốt hoặc chạm để đổi ô; hai thanh GIỮ và CÂU đặt cạnh nhau.
+- 5 ô hành động (Giật cần, Thu dây, Nới dây, Ghìm cần, Vợt) và ô đặc biệt: sọc (ghép 4), bom (L/T), ngôi sao (ghép 5).
+- Combo dây chuyền, gợi ý nước đi khi đứng yên 5 giây, hiệu ứng trượt/rơi/nổ ô.
+- 7 loài cá với nhịp giằng/đuối; cá khỏe lao giật dây; chiêu riêng: mực phun mực, nóc xù gai, cá mập ném rong.
+- 10 màn chơi kèm mẹo, nhiệm vụ phụ, 3 sao, xu và mua thêm 20 giây.
+- Cân bằng độ khó bằng công cụ mô phỏng trong Unity.
+- Bản HTML (WebGL) tự co theo tỉ lệ 9:16, chơi được trên máy tính và điện thoại.
+
+Đã làm trong Unity, chưa có trên bản web:
+- Mồi chỉ giúp hút cá, cá nào chạm lưỡi câu cũng cắn.
+- Hình cá mới.
+- Giao diện màn kéo cá mới: ô bóng, bàn cờ xanh, thanh dạng ống, màu ô tươi hơn.
+
+Hình ảnh trong bản demo chỉ để trình bày nội bộ, sẽ thay bằng art riêng trước khi phát hành.
