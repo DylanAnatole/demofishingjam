@@ -33,15 +33,13 @@ Nguyên tắc: đơn giản, ít chữ, người chơi tự hiểu khi chơi.
 - Thả câu: chạm nước để thả, giữ ngón tay lái lưỡi câu; chọn mồi đầu màn, đổi được giữa các lần thả.
 - Kéo cá: bàn ghép 3 kiểu 7×7, vuốt hoặc chạm để đổi ô; hai thanh GIỮ và CÂU đặt cạnh nhau.
 - 5 ô hành động (Giật cần, Thu dây, Nới dây, Ghìm cần, Vợt) và ô đặc biệt: sọc (ghép 4), bom (L/T), ngôi sao (ghép 5).
-- Combo dây chuyền, gợi ý nước đi khi đứng yên 5 giây, hiệu ứng trượt/rơi/nổ ô.
+- Mồi chỉ giúp hút cá lại gần, cá nào chạm lưỡi câu cũng cắn.
+- Combo dây chuyền, gợi ý nước đi khi đứng yên (3 giây ở màn 1–2, 5 giây các màn sau), hiệu ứng trượt/rơi/nổ ô.
 - 7 loài cá với nhịp giằng/đuối; cá khỏe lao giật dây; chiêu riêng: mực phun mực, nóc xù gai, cá mập ném rong.
 - 10 màn chơi kèm mẹo, nhiệm vụ phụ, 3 sao, xu và mua thêm 20 giây.
-- Cân bằng độ khó bằng công cụ mô phỏng trong Unity.
+- Hướng dẫn lần đầu: bàn tay chỉ con cá cần bắt khi thả câu, và kéo mẫu hai ô cần đổi ở lần ghép đầu.
+- Giao diện: HUD xanh navy, nút bóng, bảng thông báo bật nảy, ô ghép bóng, bàn cờ xanh, thanh dạng ống, bảng thắng có sao nảy.
+- Cân bằng độ khó bằng công cụ mô phỏng trong Unity (tính cả việc câu nhầm khi hồ nhiều cá không cần bắt).
 - Bản HTML (WebGL) tự co theo tỉ lệ 9:16, chơi được trên máy tính và điện thoại.
-
-Đã làm trong Unity, chưa có trên bản web:
-- Mồi chỉ giúp hút cá, cá nào chạm lưỡi câu cũng cắn.
-- Hình cá mới.
-- Giao diện màn kéo cá mới: ô bóng, bàn cờ xanh, thanh dạng ống, màu ô tươi hơn.
 
 Hình ảnh trong bản demo chỉ để trình bày nội bộ, sẽ thay bằng art riêng trước khi phát hành.
