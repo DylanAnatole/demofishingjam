@@ -3,6 +3,10 @@
 Bản chơi thử trên trình duyệt (Unity WebGL), dùng nội bộ để trình bày ý tưởng.
 Mở trang GitHub Pages của repo này để chơi.
 
+## Ý tưởng game
+
+Fishing Jam là game câu cá kết hợp ghép 3, chơi dọc trên điện thoại. Người chơi chạm nước để thả câu và lái lưỡi câu tới con cá cần bắt, mồi giúp hút cá lại gần cho dễ câu. Khi cá cắn câu, người chơi đổi ô để ghép 3. Mỗi lần ghép vừa kéo cá lại gần vừa phải giữ cho dây không đứt, ghép 4–5 ô sẽ tạo ra ô đặc biệt mạnh hơn. Mục tiêu là bắt đủ số cá trước khi hết giờ, câu nhầm cá hoặc để đứt dây sẽ bị trừ thời gian.
+
 ## Ghi chú: những gì đã làm
 
 - Luồng chơi: trang chủ → chèo thuyền (loading) → chọn hồ → chèo thuyền → vào màn.
